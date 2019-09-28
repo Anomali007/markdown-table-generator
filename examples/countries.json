@@ -1,15 +1,15 @@
 [
   {
     "continent": "Africa",
-    "country": "Mali",
+    "country": "Algeria",
     "sections": [
       {
-        "title": "Mali Secondary Education Grading Scale",
+        "title": "Algeria General Education Grading Scale",
         "subtitle": "",
         "tables": [
           {
-            "header": "Secondary Education Grading Scale",
-            "subheader": "",
+            "header": "General Education Grading Scale",
+            "subheader": "Used at All Educational Levels",
             "columns": {
               "Indigenous Numeric Grade": [
                 "16 — 20",
@@ -41,37 +41,122 @@
               ]
             },
             "footers": [
-              "16 — 20 is rarely awarded."
+              "Grades of 18 – 20 are rarely given. There is no grade of D in Algeria. However, as with most countries that are patterned after the French educational system, grades of 8 and 9, which are normally failing grades, may be accepted as a “condoned pass” (U.S. grade of D) provided the overall grade average for the year (moyenne general) is 10.0 / 20, or higher. This is at the discretion of the institution’s administrators, and, at the post-secondary level, students may be required to re-take, in a future term, the course for which they received a “condoned pass."
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Angola",
+    "sections": [
       {
-        "title": "Mali Higher Education Grading Scale",
+        "title": "Angola General Education Grading Scale",
         "subtitle": "",
         "tables": [
           {
-            "header": "Post-Secondary Education Grading Scale",
-            "subheader": "",
+            "header": "Secondary Education Grading Scale",
+            "subheader": "Used at All Educational Levels",
             "columns": {
               "Indigenous Numeric Grade": [
-                "18 — 20",
-                "16 — 17",
-                "14— 15",
+                "16 - 20",
+                "13 - 15",
+                "10 - 12",
+                "1 - 9"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B",
+                "C",
+                "F"
+              ]
+            },
+            "footers": [
+              "The grade scale follows the Portuguese pattern of 0 to 20; 10 is the minimum passing grade."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Benin",
+    "sections": [
+      {
+        "title": "Benin General Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "General Education Grading Scale",
+            "subheader": "Used at all Educational Levels",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 — 20",
+                "14 — 15",
                 "12 — 13",
                 "10 — 11",
-                "0 — 9"
+                "8 — 9",
+                "6 — 7",
+                "3 — 5",
+                "0 — 2"
               ],
               "French Grade Descriptor": [
-                "très bien",
                 "très bien",
                 "bien",
                 "assez bien",
                 "passable",
-                "ajourné"
+                "médiocre",
+                "faible",
+                "très faible",
+                "nul"
               ],
               "Suggested U.S. Equivalence": [
-                "A+",
+                "A",
+                "B+",
+                "B",
+                "C",
+                "D",
+                "F"
+              ]
+            },
+            "footers": [
+              "Grades of 18 – 20 are rarely given. There is no grade of D in Benin. However, as with most countries that are patterned after the French educational system, grades of 8 and 9, which are normally failing grades, may be accepted as a “condoned pass” (U.S. grade of D) provided the overall grade average for the year (moyenne general) is 10.0 / 20, or higher. This is at the discretion of the institution’s administrators, and, at the post-secondary level, students may be required to re-take, in a future term, the course for which they received a “condoned pass."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Botswana",
+    "sections": [
+      {
+        "title": "Botswana Post-Secondary Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "Post-Secondary Certificate Grading Scale",
+            "subheader": "",
+            "columns": {
+              "Indigenous Letter Grade": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E, F"
+              ],
+              "Indigenous Grade Classification": [
+                "First Class",
+                "Second Class, First Division",
+                "Second Cass, Second Division",
+                "Pass",
+                "Fail"
+              ],
+              "Suggested U.S. Equivalence": [
                 "A",
                 "B+",
                 "B",
@@ -80,7 +165,187 @@
               ]
             },
             "footers": [
-              "At the Ecole d`Ingénieurs the grading system is 0 — 5, with 3 as the minimum passing grade."
+              "The Botswana GCSE uses grades of A-G"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Burkina Faso",
+    "sections": [
+      {
+        "title": "Burkina Faso General Education Grading Scale",
+        "subtitles": "",
+        "tables": [
+          {
+            "header": "General Education Grading Scale",
+            "subheader": "Used at All Educational Scale",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 — 20",
+                "14 — 15",
+                "12 — 13",
+                "10 — 11",
+                "8 — 9",
+                "6 — 7",
+                "3 — 5",
+                "0 — 2"
+              ],
+              "French Grade Descriptor": [
+                "très bien",
+                "bien",
+                "assez bien",
+                "passable",
+                "médiocre",
+                "faible",
+                "très faible",
+                "nul"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B+",
+                "B",
+                "C",
+                "D",
+                "F"
+              ]
+            },
+            "footers": [
+              "Grades of 18 – 20 are rarely given. There is no grade of D in Burkina Faso. However, as with most countries that are patterned after the French educational system, grades of 8 and 9, which are normally failing grades, may be accepted as a “condoned pass” (U.S. grade of D) provided the overall grade average for the year (moyenne general) is 10.0 / 20, or higher. This is at the discretion of the institution’s administrators, and, at the post-secondary level, students may be required to re-take, in a future term, the course for which they received a “condoned pass."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Burundi",
+    "sections": [
+      {
+        "title": "Burundi General Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "General Education Grading Scale",
+            "subheader": "Used at All Educational Levels",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 — 20",
+                "14 — 15",
+                "12 — 13",
+                "10 — 11",
+                "8 — 9",
+                "6 — 7",
+                "3 — 5",
+                "0 — 2"
+              ],
+              "French Grade Descriptor": [
+                "très bien",
+                "bien",
+                "assez bien",
+                "passable",
+                "médiocre",
+                "faible",
+                "très faible",
+                "nul"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B+",
+                "B",
+                "C",
+                "D",
+                "F"
+              ]
+            },
+            "footers": [
+              "Grades of 18 – 20 are rarely given. There is no grade of D in Burundi. However, as with most countries that are patterned after the French educational system, grades of 8 and 9, which are normally failing grades, may be accepted as a “condoned pass” (U.S. grade of D) provided the overall grade average for the year (moyenne general) is 10.0 / 20, or higher. This is at the discretion of the institution’s administrators, and, at the post-secondary level, students may be required to re-take, in a future term, the course for which they received a “condoned pass."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Cameroon",
+    "sections": [
+      {
+        "title": "Cameroon General Education Grading Scale",
+        "subtitles": "",
+        "tables": [
+          {
+            "header": "General Education Grading Scale",
+            "subheader": "Used at All Educational Levels",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 — 20",
+                "14 — 15",
+                "12 — 13",
+                "10 — 11",
+                "8 — 9",
+                "6 — 7",
+                "3 — 5",
+                "0 — 2"
+              ],
+              "French Grade Descriptor": [
+                "très bien",
+                "bien",
+                "assez bien",
+                "passable",
+                "médiocre",
+                "faible",
+                "très faible",
+                "nul"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B+",
+                "B",
+                "C",
+                "D",
+                "F"
+              ]
+            },
+            "footers": [
+              "Grades of 18 – 20 are rarely given. There is no grade of D in Cameroon. However, as with most countries that are patterned after the French educational system, grades of 8 and 9, which are normally failing grades, may be accepted as a “condoned pass” (U.S. grade of D) provided the overall grade average for the year (moyenne general) is 10.0 / 20, or higher. This is at the discretion of the institution’s administrators, and, at the post-secondary level, students may be required to re-take, in a future term, the course for which they received a “condoned pass."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Cape Verde",
+    "sections": [
+      {
+        "title": "Cape Verde General Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "General Education Grading Scale",
+            "subheader": "Used at All Educational Levels",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 - 20",
+                "13 - 15",
+                "10 - 12",
+                "1 - 9"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B",
+                "C",
+                "F"
+              ]
+            },
+            "footers": [
+              "The grade scale follows the Portuguese pattern of 0 to 20; 10 is the minimum passing grade."
             ]
           }
         ]
