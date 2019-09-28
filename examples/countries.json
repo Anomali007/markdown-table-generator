@@ -1,0 +1,89 @@
+[
+  {
+    "country": "Mali",
+    "sections": [
+      {
+        "title": "Mali Secondary Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "Secondary Education Grading Scale",
+            "subheader": "",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "16 — 20",
+                "14 — 15",
+                "12 — 13",
+                "10 — 11",
+                "8 — 9",
+                "6 — 7",
+                "3 — 5",
+                "0 — 2"
+              ],
+              "French Grade Descriptor": [
+                "très bien",
+                "bien",
+                "assez bien",
+                "passable",
+                "médiocre",
+                "faible",
+                "très faible",
+                "nul"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A",
+                "B+",
+                "B",
+                "C",
+                "D",
+                "F"
+              ]
+            },
+            "footers": [
+              "16 — 20 is rarely awarded."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mali Higher Education Grading Scale",
+        "subtitle": "",
+        "tables": [
+          {
+            "header": "Post-Secondary Education Grading Scale",
+            "subheader": "",
+            "columns": {
+              "Indigenous Numeric Grade": [
+                "18 — 20",
+                "16 — 17",
+                "14— 15",
+                "12 — 13",
+                "10 — 11",
+                "0 — 9"
+              ],
+              "French Grade Descriptor": [
+                "très bien",
+                "très bien",
+                "bien",
+                "assez bien",
+                "passable",
+                "ajourné"
+              ],
+              "Suggested U.S. Equivalence": [
+                "A+",
+                "A",
+                "B+",
+                "B",
+                "C",
+                "F"
+              ]
+            },
+            "footers": [
+              "At the Ecole d`Ingénieurs the grading system is 0 — 5, with 3 as the minimum passing grade."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

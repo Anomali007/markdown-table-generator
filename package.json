@@ -1,0 +1,24 @@
+{
+  "name": "markdown-table-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Public/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anomali007/markdown-table-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anomali007/markdown-table-generator/issues"
+  },
+  "homepage": "https://github.com/Anomali007/markdown-table-generator#readme"
+}
